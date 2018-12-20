@@ -1,7 +1,7 @@
 # math454
 note for MATH 454 Graph Theory from IIT Spring 2018
 
-##1.1 what is graph
+## 1.1 what is graph
 
 A graph G is a triple consisting of:
 
